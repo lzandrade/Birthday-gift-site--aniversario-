@@ -69,21 +69,20 @@ h1, h2, h3, h4, p {
 }
 
 #gif3:hover {
-    background-image: url(/imagens/friends.gif);
-    background-size: cover;
+    background-image: url(/imagens/Strong-Man-Logo-Graphics-22160462-1-1-580x386.jpg);
+    background-size:inherit;
 
 }
 
 #gif4:hover {
-    background-image: url(/imagens/hot.gif);
-    background-size: cover;
-}
+    background-image: url(/imagens/flamengo.gif);
+    background-size:cover }
 
 #gif5 {
     height: 200px;
 }
 #gif5:hover {
   
-    background-image: url(/imagens/hot.gif);
+    background-image: url(/imagens/di\ caprio.gif);
     background-size: cover;
 }
